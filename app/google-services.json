@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677702003797",
+    "project_id": "tib2hub",
+    "storage_bucket": "tib2hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677702003797:android:1c8ba377484778c768b8dc",
+        "android_client_info": {
+          "package_name": "com.example.tib2hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4CDYb7yHSuHojI0B7mOYezyhP-eiHxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
